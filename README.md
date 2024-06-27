@@ -1,1 +1,1 @@
-# Using CI/CD piepline alog with DBT and BigQuery Data Warehouse
+# Using CI/CD pipeline alog with DBT and BigQuery Data Warehouse
